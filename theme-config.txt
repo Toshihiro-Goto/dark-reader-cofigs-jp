@@ -1,0 +1,16 @@
+================================
+
+https://mozilla.github.io/pdf.js/web/viewer.html
+
+CSS
+
+.canvasWrapper{
+    filter:invert(100%);
+}
+
+.toolbarButton::before,
+.secondaryToolbarButton::before{
+    background-color:white;
+}
+
+================================
