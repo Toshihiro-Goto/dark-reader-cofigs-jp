@@ -14,3 +14,26 @@ CSS
 }
 
 ================================
+
+*.yodobashi.com*
+
+INVERT
+
+.cartBtnNew::before
+
+CSS
+
+#srcWindow .srcIptInner {
+    background-color: black;
+}
+
+#srcCateSelect .cateSlctDisplay span {
+    background-color: black;
+    color: white;
+}
+
+#srcWindow {
+    background: none;
+}
+
+================================
