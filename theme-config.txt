@@ -37,3 +37,12 @@ CSS
 }
 
 ================================
+
+toyokeizai.net
+
+CSS
+#article-body-inner p{
+color:#ccc
+}
+
+================================
