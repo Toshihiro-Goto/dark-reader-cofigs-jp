@@ -47,11 +47,32 @@ color:#ccc
 
 ================================
 
-www.redbull.com
+redbull.com
 
 CSS
+
+a.cosmos-story-card__link {
+    background-color: black;
+}
+
 .inline-content{
 background-color:black;
+}
+
+.unified-story-hero.unified-story-hero--full-bleed-overlay {
+    background-color: black;
+}
+
+.unified-story-hero.unified-story-hero--full-bleed-overlay {
+    background-color: black;
+}
+
+.caption-and-content-layout-rbx {
+    background-color: black;
+}
+
+.story-endmatter.story-endmatter__padding {
+    background-color: black;
 }
 
 ================================
