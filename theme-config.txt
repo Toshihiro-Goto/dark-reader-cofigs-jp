@@ -81,3 +81,14 @@ background-color:black;
 }
 
 ================================
+mermaid-js.github.io
+
+INVERT
+div.mermaid
+span.nodeLabel
+span.edgeLabel
+span.edgeLabel span.edgeLabel
+tspan
+g.edgePaths
+
+================================
