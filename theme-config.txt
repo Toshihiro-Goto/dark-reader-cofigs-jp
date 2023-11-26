@@ -1,8 +1,7 @@
 *
 
-div[id^="____MOUSE_DICTIONARY"] {
-    background-color:black !important;
-}
+IGNORE INLINE STYLE
+.notranslate
 
 ================================
 
